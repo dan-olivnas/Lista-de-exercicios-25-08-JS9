@@ -1,0 +1,13 @@
+{
+  "name": "lacos-condicionais",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Exercícios de laços condicionais em JavaScript",
+  "main": "lista1-1.js",
+  "scripts": {
+    "start": "node lista1-1.js"
+  },
+  "keywords": [],
+  "author": "Dandara Nascimento",
+  "license": "ISC"
+}
